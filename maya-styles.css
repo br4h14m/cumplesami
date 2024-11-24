@@ -18,7 +18,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('img/tropical-forest-captured-daylight.jpg'); /* Ruta relativa a la imagen local */
+    background-image: url('https://github.com/br4h14m/cumplesami/blob/main/tropical-forest-captured-daylight.jpg?raw=true'); /* Ruta relativa a la imagen local */
     background-repeat: repeat;
     background-size: cover;
     filter: blur(5px); /* Nivel de desenfoque */
